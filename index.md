@@ -1,37 +1,8 @@
 ## Welcome to Yueran's Pages
 
 Hello, My name is Pan Yueran. Capital letters are __PY__ and __R__, which mean __python__ and __R__. So I am meant to devote my life to data science. I achieved MSc Data Science with distinction in London School of Economics and Political Science and BSc Statistic in Wuhan University before. 
-Currently I am a PhD candidate in WHU. Most of my study are about applying data analysis methods to help autism
-, including 
-machine learning, quantitative text analysis for presidents speeches and novels, 
-social network analysis for people's relationships,  eg a lawyer company
-database construction about ecommerce trade history, 
-and soon.
-My capstone project is about ananlyze and predict signal outage optical network in American area.
-As I mentioned, most time I use python and R to do analysis. I also studied SQL and Hadoop.
-Apart from campus study, I also tried to get more knowledge from industry. In this summer, I had a data sicence internship in an advisory, which was about fitting investors and startup companies by machine learning.
-I took a solid internship in Tencent last year, which was about preprocessing data for text detection.
-Apart from work and study, I frequently atteend activities like Google Developer Group Festival 
- about technology ,try to keep up with cutting edge.
-I am passionate about DKU. I used to work for the Global Office of WHU,
-which promoted the establishment of DKU. Frequently editing promotional materials with
-staff in WHU events made me familiar with DKU gradually. Because of admiring DKU, such
-an international university with a combination of American education and Chinese culture, I
-tried to apply to an exchange program before and even received the offer. Unfortunately, I
-got stuck by some complex administrative process in my home university. This time, I do not
-want to lose the opportunity again.
-Today I am applying for the position of a research assistant mainly for prepareing phd study. Wish I can 
+Currently I am a PhD candidate in WHU. Most of my study are about applying data analysis methods to help children with autism. I believe that AI woudld share my love.
 
-
-
-
-
-
-
-
-
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
