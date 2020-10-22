@@ -1,8 +1,6 @@
 ## Welcome to Yueran's Pages
 
-title: [The title of your site]
-description: [A short description of your site's purpose]
-logo: [pyr_wanlin.jpg]
+
 
 You can use the [editor on GitHub](https://github.com/sparklingyueran/sparklingyueran.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
