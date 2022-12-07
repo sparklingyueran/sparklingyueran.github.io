@@ -10,6 +10,7 @@ International Conference on Pattern Recognition (ICPR) 2020
 
 #### *Abstract*
 Autism spectrum disorder (ASD) is a neuro- developmental disorder, which causes deficits in social lives. Early screening of ASD for young children is important to reduce the impact of ASD on people’s lives. Traditional screening methods mainly rely on protocol-based interviews and subjective evaluations from clinicians and domain experts, which requires advanced expertise and intensive labor. To standardize the process of ASD screening, we design a ”Responsive Social Smile” protocol and the associated experimental setup. Moreover, we propose a machine learning based assessment framework for early ASD screening. By integrating speech recognition and computer vision technologies, the proposed framework can quantitatively analyze children’s behaviors under well-designed protocols. We collect 196 stimulus samples from 41 children with an average age of 23.34 months, and the proposed method obtains 85.20% accuracy for predicting stimulus scores and 80.49% accuracy for the final ASD prediction. This result indicates that our model approaches the average level.
+![rss](rss.jpg)
 
 ### Responsive Social Smile: A Machine Learning based Multimodal Behavior Assessment Framework towards Early Stage Autism Screening
 International Conference on Pattern Recognition (ICPR) 2022
