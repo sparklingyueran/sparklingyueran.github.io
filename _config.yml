@@ -1,10 +1,11 @@
 title: Yueran PAN
-description: "CS PhD student at WHU/ \n
-RA at DKU/ \n
-MSc Data Science at LSE/ \n
-BSc Statistics at WHU/ \n
-Project under Microsoft Research/ \n
-Data Analysis Intern at Tencent"
+description: |
+  CS PhD student at WHU/ 
+  RA at DKU/ 
+  MSc Data Science at LSE/ 
+  BSc Statistics at WHU/ 
+  Project under Microsoft Research/ 
+  Data Analysis Intern at Tencent
 
 theme: jekyll-theme-minimal
 logo: pyr_wanlin.jpg
